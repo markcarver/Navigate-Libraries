@@ -1,6 +1,6 @@
 <?php
 /*
-  @library      lessphp
+  @library      LESS CSS Compiler
   @version      0.2.0
   @author       Leaf Corcoran <leafot@gmail.com>
   @copyright    Copyright (c) 2010

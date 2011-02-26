@@ -1,6 +1,6 @@
 <?php
 /*
-  @library     CSS Compressor
+  @library     ICEY CSS Compressor
   @version     0.9
   @author      Robson
   @copyright   Copyright (C) 2008
